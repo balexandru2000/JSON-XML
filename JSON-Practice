@@ -1,0 +1,104 @@
+{
+  "Persoane": [
+    {
+      "ID": 1,
+      "Nume": [
+        {
+          "Nume de familie": "Luca",
+          "Prenume": "Andrei"
+        }
+      ],
+      "Oras": "Brasov",
+      "Adresa": [
+        {
+          "Strada": "Ioan Cuza",
+          "Numar": 40,
+          "Bloc": 61,
+          "Apartament": 7
+        }
+      ],
+      "Contact": [
+        {
+          "Numar telefon": "0770733209",
+          "Skype": "LucaAnn121",
+          "Email": "luca_andrei121@gmail.com"
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "Nume'": [
+        {
+          "Nume de familie": "Mihai",
+          "Prenume": "Ioan"
+        }
+      ],
+      "Oras": "Iasi",
+      "Adresa": [
+        {
+          "Strada": "Mihai Viteau",
+          "Numar": 23,
+          "Bloc": 10,
+          "Apartament": 9
+        }
+      ],
+      "Contact": [
+        {
+          "Numar telefon": "0720435299",
+          "Skype": "miioan101",
+          "Email": "mihaiioan123@gmail.com"
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "Nume": [
+        {
+          "Nume de familie": "Popa",
+          "Prenume": "Raluca"
+        }
+      ],
+      "Oras": "Cluj-Napoca",
+      "Adresa": [
+        {
+          "Strada": "General Dragalina",
+          "Numar": 95,
+          "Bloc": 100,
+          "Apartament": 23
+        }
+      ],
+      "Contact": [
+        {
+          "Numar telefon": "0724007364",
+          "Skype": "ralip00",
+          "Email": "ralu.p00@gmail.com"
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "Nume": [
+        {
+          "Nume de familie": "Costin",
+          "Prenume": "Miruna"
+        }
+      ],
+      "Oras": "Targu-Mures",
+      "Adresa": [
+        {
+          "Strada": "Nicolae Grigorescu",
+          "Numar": 107,
+          "Bloc": 55,
+          "Apartament": 16
+        }
+      ],
+      "Contact": [
+        {
+          "Numar telefon": "0721012998",
+          "Skype": "CoMiru89",
+          "Email": "miruna.cos55@gmail.com"
+        }
+      ]
+    }
+  ]
+}
