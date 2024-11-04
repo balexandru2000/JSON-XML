@@ -1,0 +1,70 @@
+<Persoane>
+	<ID>1</ID>
+	<Nume>
+		<Nume_de_familie>Luca</Nume_de_familie>
+		<Prenume>Andrei</Prenume>
+	</Nume>
+	<Oras>Brasov</Oras>
+	<Adresa>
+		<Strada>Ioan Cuza</Strada>
+		<Numar>40</Numar>
+		<Bloc>61</Bloc>
+		<Apartament>7</Apartament>
+	</Adresa>
+	<Contact>
+		<Numar_telefon>0770733209</Numar_telefon>
+		<Skype>LucaAnn121</Skype>
+		<Email>luca_andrei121@gmail.com</Email>
+	</Contact>
+	<ID>2</ID>
+	<Nume>
+		<Nume_de_familie>Mihai</Nume_de_familie>
+		<Prenume>Ioan</Prenume>
+	</Nume>
+	<Oras>Iasi</Oras>
+	<Adresa>
+		<Strada>Mihai Viteau</Strada>
+		<Numar>23</Numar>
+		<Bloc>10</Bloc>
+		<Apartament>9</Apartament>
+	</Adresa>
+	<Contact>
+		<Numar_telefon>0720435299</Numar_telefon>
+		<Skype>miioan101</Skype>
+		<Email>mihaiioan123@gmail.com</Email>
+	</Contact>
+	<ID>3</ID>
+	<Nume>
+		<Nume_de_familie>Popa</Nume_de_familie>
+		<Prenume>Raluca</Prenume>
+	</Nume>
+	<Oras>Cluj-Napoca</Oras>
+	<Adresa>
+		<Strada>General Dragalina</Strada>
+		<Numar>95</Numar>
+		<Bloc>100</Bloc>
+		<Apartament>23</Apartament>
+	</Adresa>
+	<Contact>
+		<Numar_telefon>0724007364</Numar_telefon>
+		<Skype>ralip00</Skype>
+		<Email>ralu.p00@gmail.com</Email>
+	</Contact>
+	<ID>4</ID>
+	<Nume>
+		<Nume_de_familie>Costin</Nume_de_familie>
+		<Prenume>Miruna</Prenume>
+	</Nume>
+	<Oras>Targu-Mures</Oras>
+	<Adresa>
+		<Strada>Nicolae Grigorescu</Strada>
+		<Numar>107</Numar>
+		<Bloc>55</Bloc>
+		<Apartament>16</Apartament>
+	</Adresa>
+	<Contact>
+		<Numar_telefon>0721012998</Numar_telefon>
+		<Skype>CoMiru89</Skype>
+		<Email>miruna.cos55@gmail.com</Email>
+	</Contact>
+</Persoane>
